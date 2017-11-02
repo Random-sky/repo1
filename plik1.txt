@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nowy plik
 O zobacz popacz
 <<<<<<< HEAD
@@ -17,6 +18,9 @@ pizza
 >>>>>>> parent of 202e39d... oj
 =======
 >>>>>>> parent of 202e39d... oj
+=======
+NOWY POZADEK
+>>>>>>> parent of 0ca4b7c... Revert "NOWY POZADAEK"
 =======
 NOWY POZADEK
 >>>>>>> parent of 0ca4b7c... Revert "NOWY POZADAEK"
