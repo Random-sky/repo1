@@ -1,9 +1,1 @@
-Nowy plik
-O zobacz popacz
-<<<<<<< HEAD
-Robimy to dalej
-
-=======
-
-pizza
->>>>>>> 68f844434f41e293647fe62eabd9c0fa06ea4ed0
+NOWY POZADEK
