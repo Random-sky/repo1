@@ -1,1 +1,31 @@
+<<<<<<< HEAD
 fewvewv
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Nowy plik
+O zobacz popacz
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Robimy to dalej
+
+=======
+
+pizza
+>>>>>>> 68f844434f41e293647fe62eabd9c0fa06ea4ed0
+=======
+>>>>>>> parent of 202e39d... oj
+=======
+>>>>>>> parent of 202e39d... oj
+=======
+NOWY POZADEK
+>>>>>>> parent of 0ca4b7c... Revert "NOWY POZADAEK"
+=======
+NOWY POZADEK
+>>>>>>> parent of 0ca4b7c... Revert "NOWY POZADAEK"
+=======
+NOWY POZADEK
+>>>>>>> parent of 0ca4b7c... Revert "NOWY POZADAEK"
+>>>>>>> parent of f6a466c... pol ty
