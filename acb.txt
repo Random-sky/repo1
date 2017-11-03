@@ -7,3 +7,4 @@ thirsty:
 	JAKIS IF()
 
 	while(nwe)
+	for
