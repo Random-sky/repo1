@@ -1,4 +1,7 @@
 1.Pierwsza linijka
 2. Druga linia
 3. O zobac tu też
-543
+________________________
+thirsty:
+	nowe linie
+	JAKIS IF()
