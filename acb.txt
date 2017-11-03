@@ -5,3 +5,5 @@ ________________________
 thirsty:
 	nowe linie
 	JAKIS IF()
+
+	while(nwe)
